@@ -36,3 +36,4 @@ jobs:
           echo "时间: $(date '+%Y-%m-%d %H:%M:%S')"
           python main.py
           echo "========== 执行完成 =========="
+
